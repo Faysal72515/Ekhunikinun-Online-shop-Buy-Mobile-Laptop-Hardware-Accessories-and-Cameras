@@ -1,5 +1,5 @@
 # Ekhunikinun-Online-shop-Buy-Mobile-Laptop-Hardware-Accessories-and-Cameras
-Ekhunikinun-Online shop: Buy Mobile, Laptop &amp; Hardware Accessories and Cameras
+Ekhunikinun(এখুনি কিনুন)-Online shop: Buy Mobile, Laptop &amp; Hardware Accessories and Cameras
 
 1. Name: এখুনি কিনুন -Online shop: Buy Mobile, Laptop & Hardware Accessories and Cameras
 2. Project Area: Ecommerce & Web based solution
